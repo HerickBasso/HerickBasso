@@ -5,7 +5,8 @@
   
 <div>
 
-[![Lordzin01's GitHub stats](https://github-readme-stats.vercel.app/api?Username=Lordzin01)](https://github.com/Lordzin01/github-readme-stats)
+[![Lordzin01's GitHub stats](https://github-readme-stats.vercel.app/api?Username=Lordzin01)](https://github.com/Lordzin01/github-readmd-stats)
+
 </div>
 
 
