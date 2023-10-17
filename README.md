@@ -5,5 +5,5 @@
 - Contate-me pelo: herickbasso@icloud.com
   
 <div>
-  (https://github-readme-stats.vercel.app/api?Lordzin01=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    <a href = "mailto:herickbasso@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
