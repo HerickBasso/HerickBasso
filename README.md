@@ -5,7 +5,7 @@
   
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lordzin01=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Username=Lordzin01)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 
