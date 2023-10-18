@@ -1,7 +1,8 @@
 ## Hello! Welcome to my Profile, have fun.
 
-- Atualmente trabalho como: Frond-End
-- Estudando/melhorando: Java Script
+- 💻 Atualmente trabalho como: Frond-End
+- 📱 Atualmente estudando: Android
+  
   
 <div>
 
