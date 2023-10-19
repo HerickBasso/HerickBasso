@@ -41,6 +41,9 @@
   
 </div>
 
+<br>
+<br>
+
 <div>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordzin01&theme=midnight-purple&locale=pt-br&hide=contribs)
