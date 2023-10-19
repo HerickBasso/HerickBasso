@@ -7,7 +7,7 @@
   
   <div>
 
-    Minhas redes sociais Google (Noto Color Emoji - Unicode 15.0)
+  ###  Minhas redes sociais Google 
 
   </div>
   
