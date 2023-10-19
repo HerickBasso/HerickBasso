@@ -46,7 +46,7 @@
 
 <div>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordzin01&theme=midnight-purple&locale=pt-br&hide=contribs)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordzin01&layout=compact&theme=midnight-purple)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerickBasso&theme=midnight-purple&locale=pt-br&hide=contribs)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerickBasso&layout=compact&theme=midnight-purple)
   
 </div>
