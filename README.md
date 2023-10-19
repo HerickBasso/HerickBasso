@@ -6,9 +6,9 @@
   </div>
   
 -  <h2> Atualmente trabalho como: Frond-End. 💻 </h2> 
--  ## Atualmente estudando: Android. 📱
--  ## Inglês intermediario. 📘
--  ## 03/01/2006 🥳
+-  <h2> Atualmente estudando: Android. 📱 </h2>
+-  <h2> Inglês intermediario. 📘 </h2>
+-  <h2> 03/01/2006 🥳 </h2>
   
   <div>
 
