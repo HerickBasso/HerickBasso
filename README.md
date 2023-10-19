@@ -5,8 +5,9 @@
   
   </div>
   
--  <h2> Atualmente trabalho como: Frond-End. 💻 </h2> 
--  <h2> Atualmente estudando: Android. 📱 </h2>
+-  <h2> Atualmente estudando: Android. 📱 </h2> 
+-  <h2> Preferencia Frond-End. 💻 </h2>
+-  <h2>  Aluno e estagiário do Colegio Ulbra São Lucas </h2>
 -  <h2> Inglês intermediario. 📘 </h2>
 -  <h2> 03/01/2006 🥳 </h2>
   
