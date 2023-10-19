@@ -40,3 +40,10 @@
   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   
 </div>
+
+<div>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordzin01&theme=midnight-purple&locale=pt-br&hide=contribs)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordzin01&layout=compact&theme=midnight-purple)
+  
+</div>
