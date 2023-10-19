@@ -5,7 +5,7 @@
   
   </div>
   
--  <h1> Atualmente trabalho como: Frond-End. </h1> 💻
+-  <h2> Atualmente trabalho como: Frond-End. 💻 </h2> 
 -  ## Atualmente estudando: Android. 📱
 -  ## Inglês intermediario. 📘
 -  ## 03/01/2006 🥳
