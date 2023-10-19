@@ -1,4 +1,4 @@
-## Hello! Welcome to my Profile, have fun.
+  # Olá, Seja em vindo ao meu perfil.
 
 - 💻 Atualmente trabalho como: Frond-End.
 - 📱 Atualmente estudando: Android.
@@ -7,7 +7,7 @@
   
   <div>
 
-  #  Minhas redes sociais Google 
+  #  Minhas redes sociais.
 
   </div>
   
