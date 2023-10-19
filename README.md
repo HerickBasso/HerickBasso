@@ -5,10 +5,10 @@
   
   </div>
   
--  ## Atualmente trabalho como: Frond-End.
--  ## Atualmente estudando: Android.
--  ## Inglês intermediario.
--  ## 03/01/2006
+-  ## Atualmente trabalho como: Frond-End. 💻
+-  ## Atualmente estudando: Android. 📱
+-  ## Inglês intermediario. 📘
+-  ## 03/01/2006 🥳
   
   <div>
 
