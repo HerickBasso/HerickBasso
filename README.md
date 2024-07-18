@@ -4,22 +4,10 @@
  # Olá, Seja em vindo ao meu perfil.
   
   </div>
-  
--  <h2> Atualmente Aprimorando: PhP </h2> 
--  <h2> Preferencia Frond-End. 💻 </h2>
+ 
+-  <h2> FullStack 💻 </h2>
 -  <h2> Inglês intermediario. 📘 </h2>
   
-  <div>
-
-#  Minhas redes sociais.
-
-  </div>
-  
-
-
-  <div>
-    <a href="https://www.linkedin.com/in/herick-basso-29bb33296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo= linkedin&logoColor=white target="_blank"> </a>
-  </div>
 
   <div>
 
