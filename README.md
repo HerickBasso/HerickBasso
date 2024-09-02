@@ -11,7 +11,7 @@
 
   <div>
 
-   # Linguagens que utilizo mais.
+   # Linguagens mais utilizadas.
     
   </div>
 
