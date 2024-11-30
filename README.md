@@ -1,7 +1,8 @@
 # 🧑‍💻 **Herick Basso**  
 
 ## About Me  
-I am a versatile **Full Stack Developer** with expertise in multiple programming languages and technologies, including JavaScript, PHP, Python, C#, Java, and MySQL. I specialize in building dynamic web applications, robust backend systems, and efficient database solutions. With a strong passion for learning, I constantly explore new tools and frameworks to expand my skill set and deliver top-quality projects.  
+I am a **Full Stack Developer** skilled in JavaScript, PHP, Python, C#, Java, and MySQL. I enjoy creating dynamic web applications and efficient backend systems while continuously improving my expertise in modern technologies.  
+ 
 
 - 💻 Experienced in both frontend and backend development.  
 - 📘 Continuously improving my skills and adapting to new technologies.  
@@ -42,6 +43,4 @@ I am a versatile **Full Stack Developer** with expertise in multiple programming
 
 ## 🌐 Where to Find Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bassoherick@gmail.com)
