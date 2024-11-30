@@ -1,7 +1,8 @@
 # 🧑‍💻 **Herick Basso**  
 
 ## About Me  
-I am a **Full Stack Developer** skilled in JavaScript, PHP, Python, C#, Java, and MySQL. I enjoy creating dynamic web applications and efficient backend systems while continuously improving my expertise in modern technologies.  
+I am a **Full Stack Developer** 
+<h2> Focused on learning more every day ༼ つ ◕_◕ ༽つ<h2/>
  
 
 - 💻 Experienced in both frontend and backend development.  
