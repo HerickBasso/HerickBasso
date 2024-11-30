@@ -1,8 +1,7 @@
 # 🧑‍💻 **Herick Basso**  
 
-<h2> Focused on learning more every day ༼ つ ◕_◕ ༽つ<h2/>
+- <h2> Focused on learning more every day ༼ つ ◕_◕ ༽つ<h2/>
  
-
 - 💻 Experienced in both frontend and backend development.  
 - 📘 Continuously improving my skills and adapting to new technologies.  
 - 🌟 Committed to writing clean, maintainable, and scalable code.  
