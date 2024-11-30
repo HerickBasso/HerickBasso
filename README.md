@@ -37,6 +37,10 @@ I am a **Full Stack Developer** skilled in JavaScript, PHP, Python, C#, Java, an
   />
   <img src="https://github-readme-stats.vercel.app/api?username=HerickBasso&show_icons=true" alt="GitHub Stats" />
  </picture>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerickBasso&layout=compact&theme=dark)
+
+ 
 </div>
 
 ---
