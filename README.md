@@ -1,17 +1,7 @@
 
   <div>
     
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
   
   </div>
  
@@ -41,7 +31,16 @@
 
 <div>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerickBasso&theme=midnight-purple&locale=pt-br&hide=contribs)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerickBasso&layout=compact&theme=midnight-purple)
-  
+ <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=HerickBasso&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 </div>
