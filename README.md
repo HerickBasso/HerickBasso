@@ -1,7 +1,5 @@
 # 🧑‍💻 **Herick Basso**  
 
-## About Me  
-I am a **Full Stack Developer** 
 <h2> Focused on learning more every day ༼ つ ◕_◕ ༽つ<h2/>
  
 
